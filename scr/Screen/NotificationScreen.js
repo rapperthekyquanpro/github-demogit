@@ -14,7 +14,9 @@ import LoginButton from '../components/LoginButton';
 
 const NotificationScreen = () => {
   return (
-    <View></View>
+    <View>
+      <Text>hello anh em</Text>
+    </View>
   );
 };
 
